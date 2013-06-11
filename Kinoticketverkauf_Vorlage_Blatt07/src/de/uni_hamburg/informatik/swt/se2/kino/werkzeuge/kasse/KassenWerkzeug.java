@@ -15,7 +15,7 @@ import de.uni_hamburg.informatik.swt.se2.kino.werkzeuge.vorstellungsauswaehler.V
  * Das Kassenwerkzeug. Mit diesem Werkzeug kann die Benutzerin oder der Benutzer
  * eine Vorstellung auswählen und Karten für diese Vorstellung verkaufen und
  * stornieren.
- * Test Change!!
+ * 
  * @author SE2-Team
  * @version SoSe 2013
  */
